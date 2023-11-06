@@ -18,10 +18,10 @@ Classification in data mining is a common technique that separates data points i
 3.Click on the Classify tab, and you would see the following screen 
 ![280527975-8fff2e27-f03d-49a7-beea-d70418978881](https://github.com/sivabalan28/EX-9-Simulating-Classification-using-WEKA-Tool/assets/113497347/7738d2cd-6c54-417e-96f6-727eaf12d61c)
 
-4.Now, keep the default play option for the output class 
+4.Now, keep the default play option for the output class  
 ![280527996-2fa1e8c0-0311-4b10-8317-0a2fcfcfd771](https://github.com/sivabalan28/EX-9-Simulating-Classification-using-WEKA-Tool/assets/113497347/f13f80e4-1746-4729-b48e-72aec0202893)
 
-5.Click on the Choose button and select the following classifier − weka→classifiers>trees>J48.
+5.Click on the Choose button and select the following classifier − weka→classifiers>trees>J48. 
 ![280528019-24ee8f14-1f4b-4e16-b49a-cc46a76d7324](https://github.com/sivabalan28/EX-9-Simulating-Classification-using-WEKA-Tool/assets/113497347/c7d634ba-80e9-419a-a7c1-0df131609575)
 
 6.Click on the Start button to start the classification process. After a while, the classification results would be presented on your screen as shown here  
